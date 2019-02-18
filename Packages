@@ -1,0 +1,13 @@
+Package: com.lpsscydia.pencilchargingindicator
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: lpsscydia <lpssxs2009@gmail.com>
+Filename: ./deb/com.lpsscydia.pencilchargingindicator_1.0.1_iphoneos-arm.deb
+Size: 49368
+MD5sum: d4c939a2076e84ed31545224184251fd
+SHA1: 879d32779fd6c3b85dbb83956eb6d8c14515a181
+SHA256: 386e8aca9e7e4dfe096766f1553adba23a693592039174bc568d68520f02b87e
+Section: Tool
+Description: 充电特效
+Author: lpss
+Name: 仿x充电特效
